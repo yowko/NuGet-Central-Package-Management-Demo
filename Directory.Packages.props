@@ -1,8 +1,9 @@
 <Project>
-    <PropertyGroup>
-        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
-    </PropertyGroup>
-    <ItemGroup>
-        <!--    add your PackageVersion nodes here -->
-    </ItemGroup>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <!--    add your PackageVersion nodes here -->
+    <PackageVersion Include="StackExchange.Redis" Version="2.8.24" />
+  </ItemGroup>
 </Project>
