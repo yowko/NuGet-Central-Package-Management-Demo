@@ -9,7 +9,7 @@
 
     <ItemGroup>
       <PackageReference Include="RabbitMQ.Client" />
-      <PackageReference Include="StackExchange.Redis" />
+      <PackageReference Include="StackExchange.Redis" VersionOverride="2.8.0" />
     </ItemGroup>
 
 </Project>
