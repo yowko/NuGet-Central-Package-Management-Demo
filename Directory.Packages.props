@@ -6,5 +6,6 @@
     <!--    add your PackageVersion nodes here -->
     <PackageVersion Include="RabbitMQ.Client" Version="7.0.0" />
     <PackageVersion Include="StackExchange.Redis" Version="2.8.24" />
+    <GlobalPackageReference Include="MongoDB.Driver" Version="3.1.0" PrivateAssets="All"/>
   </ItemGroup>
 </Project>
