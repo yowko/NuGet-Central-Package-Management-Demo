@@ -1,0 +1,8 @@
+<Project>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    </PropertyGroup>
+    <ItemGroup>
+        <!--    add your PackageVersion nodes here -->
+    </ItemGroup>
+</Project>
